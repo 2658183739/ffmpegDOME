@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\hp\Desktop\ffmp\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\hp\Desktop\ffmp\源.cpp(88,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\hp\Desktop\ffmp\源.cpp(89,29): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hp\Desktop\ffmp\源.cpp(97,45): warning C4996: 'AVStream::codec': 被声明为已否决
+C:\Users\hp\Desktop\ffmp\源.cpp(147,14): warning C4002: 类函数宏的调用“SDL_CreateThread”参数过多
+C:\Users\hp\Desktop\ffmp\源.cpp(74,2): warning C4996: 'av_register_all': 被声明为已否决
+C:\Users\hp\Desktop\ffmp\源.cpp(111,35): warning C4996: 'avpicture_get_size': 被声明为已否决
+C:\Users\hp\Desktop\ffmp\源.cpp(112,2): warning C4996: 'avpicture_fill': 被声明为已否决
+C:\Users\hp\Desktop\ffmp\源.cpp(159,12): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+C:\Users\hp\Desktop\ffmp\源.cpp(179,5): warning C4996: 'av_free_packet': 被声明为已否决
+  ffmp.vcxproj -> C:\Users\hp\Desktop\ffmp\x64\Debug\ffmp.exe
